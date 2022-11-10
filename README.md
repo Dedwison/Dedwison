@@ -7,16 +7,16 @@ Como programador he tenido la experiencia de colaborar en el proyecto not-wate (
 - Mercadopago PRO
 
 Tuve la capacidad de trabajar en equipo y siguiendo los principios SCRUM alcanzamos los siguientes objetivos:
-● Filtros combinados
-● Cloudinary
-● Local storage
-● Deploy
-● Auth de terceros integrada
-● Pasarela de pagos (Mercadopago pro)
-● Notificaciones via mail
-● Reviews/puntuación
-● Borrado lógico
-● Dashboard admin
+- Filtros combinados
+- Cloudinary
+- Local storage
+- Deploy
+- Auth de terceros integrada
+- Pasarela de pagos (Mercadopago pro)
+- Notificaciones via mail
+- Reviews/puntuación
+- Borrado lógico
+- Dashboard admin
 
 
 
