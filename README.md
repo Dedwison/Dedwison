@@ -19,7 +19,7 @@ Tuve la capacidad de trabajar en equipo y siguiendo los principios SCRUM alcanza
 - Dashboard admin
 
 
-
+actualmente busco la oportunidad de poner en practica todo lo aprendido durante el bootcamp, puedes contactarme al linkedin: /in/dedwison
 
 <!--
 **Dedwison/Dedwison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
